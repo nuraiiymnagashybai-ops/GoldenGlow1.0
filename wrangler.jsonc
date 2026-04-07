@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "golden-glow-beauty",
+  "compatibility_date": "2026-04-01",
+  "main": "src/index.ts",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": "../dist"
+}
